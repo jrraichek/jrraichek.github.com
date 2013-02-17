@@ -29,7 +29,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: 1.0;
 }
 ol, ul {
 	list-style: none;
@@ -49,8 +49,8 @@ table {
 
 /* Add Styles Here */
 body { font-family:Helvetica; font-size:14px; text-align:center; }
-section#content { margin:0 auto; width:960px; padding:20px 0px; }
+section#content { margin:0 auto; width:960px; padding:100px 0px; }
 
-h1 { font-size:30px; font-weight:bold; color:teal; text-align:center; }
+h1 { font-size:30px; font-weight:bold; color:black; text-align:center; }
 h2 { font-size:18px; font-weight:regular; color:black; text-align:center; }
 p { padding-bottom:10px; }
