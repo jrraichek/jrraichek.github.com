@@ -55,13 +55,51 @@ table {
 
 
 	h1{
-		color:#4acad5;
-		font-family: helvetica, serif;
-		padding-top: 1em;
-		font-size: 3em; 
+    	color:white;
+		font-family: helvetica;
+		background-color:#df323e;
+		margin:1em;
+		padding: 2em, 1em, 1em, 1em;
+		font-size: 30px; 
+		text-transform:uppercase;
+
 		text-align: center;
-		
-		
-		
-		
-		}
+	  }
+
+	
+	h2{
+	   color: #1fb6e1;
+	   font-family: helvetica;
+	   text-transform:uppercase;
+	   font-size: 14px
+	
+	   }
+ 
+ 	h3{
+ 	
+ 	  color:grey;
+ 	  font-family: helvetica;
+ 	  text-transform:uppercase;
+ 	  font-size: 12px
+
+
+ 	  }
+ 	  
+ 	ol{
+ 	
+ 	   font-family: helvetica;
+ 	   font-size: 12px
+	
+ 	  }
+ 	  
+ 	p{
+ 		font-family: helvetica;
+ 		font-size: 12px
+ 	}  
+ 	  
+    
+    img
+    {float:right;}
+ 	  
+ 	  
+ 	  
