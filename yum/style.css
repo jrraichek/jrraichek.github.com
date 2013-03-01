@@ -54,4 +54,14 @@ table {
 /* END RESET */
 
 
-h1{color:red;}
+	h1{
+		color:#4acad5;
+		font-family: helvetica, serif;
+		padding-top: 1em;
+		font-size: 3em; 
+		text-align: center;
+		
+		
+		
+		
+		}
