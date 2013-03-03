@@ -54,11 +54,20 @@ table {
 /* END RESET */
 
 		h1{font-family: helvetica;
-		   size:22px;
+		   size:30px;
 		   font-weight: bold;
+		   line-height:20px;
 		
 		
 				}
+
+img{float:left;
+	padding-right:1em;
+	padding-botton:3em;
+
+}
+
+
 				
 		h2{font-family:helvetica;
 		   color:grey;
