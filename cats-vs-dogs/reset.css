@@ -84,33 +84,56 @@ li{ list-style:none;
     margin:20px;
     text-transform:uppercase;
     position:center; 
-    margin-top:8em;
+    padding-top:10em;
+    font-weight:bold;
 
    }
 
-img{float:left;}
+img{float:left;
+	padding-top:5em;
+ }
 
-#p1{float:left;
+
+
+#p1{
+	font-size:14px;
+	line-height:18px;
+
+
+	float:left;
 	width:400px;
+	padding-top:5em;
 	margin:1em,1em,1em,1em;
 
 	}
+
 	
 	
-#p2{float:right;
+#p2{
+	font-size:14px;
+	line-height:18px;
+
+
+
+	float:right;
 	width:400px;
 
 	}
 	
+h1{
+	font-size:22px;
+	line-height:16px;
+	font-weight:bold;
 	
 #c1{float:left;
 	width:400px;
+	padding-bottom:1em;
 
 	}
 	
 #c2{float:right;
 	width:400px;
-
+	padding-bottom:1em;
 	}
 	
 	
