@@ -53,6 +53,16 @@ table {
 
 /* END RESET */
 
+		h1{font-family: helvetica;
+		   size:20px;
+		   font-weight: bold;
+		
+		
+				}
+				
+		h2{font-family:helvetica;
+		
+		  }		
 	
 		#p1{
 			float:left;
