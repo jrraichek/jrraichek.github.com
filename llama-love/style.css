@@ -66,14 +66,15 @@ table {
 	
 		#p1{
 			float:left;
-			width:550px;
+			width:30em;
 			height:10px;
-			margin:10px;
+			margin:1.5em;
+
 			}
 	
 		#p2{
 			float:right;
-			width:550px;
+			width:30em;
 			height:10px;
 			margin:10px;
 			}
