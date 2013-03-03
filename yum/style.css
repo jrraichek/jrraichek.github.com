@@ -55,6 +55,7 @@ table {
 
 
 body{padding-top:3em;
+	padding-left:5em;
 }
 
 	h1{
@@ -62,7 +63,7 @@ body{padding-top:3em;
 		font-family: helvetica;
 		font-size: 24px; 
 		font-style:bold;
-		padding-left:16.5em;
+
 
 
 	  }
@@ -107,18 +108,22 @@ body{padding-top:3em;
  		font-family: helvetica;
  		font-size: 12px;
  		line-height:14px;
+ 		width:300px;
+ 
 
  	}  
  	  
+ 	  
+ 
     
     img
-    {float:left;
-	 padding-right:3em;
-	 padding-left:3em;    
+    {float:right;
+	 padding-right:15em;
+  
     }
     
-    article,{float:right;
-	         margin:20px;    
+    article,{
+	         margin:30px;    
 	         margin-top:5em;
 
 	    
