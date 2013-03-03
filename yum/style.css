@@ -54,85 +54,76 @@ table {
 /* END RESET */
 
 
-body{padding-top:3em;
-	padding-left:5em;
-}
+	body	{padding-top:3em;
+			padding-left:5em;
+			}
 
 	
 
 
+	h1		{
+    		color:black;
+			font-family: helvetica;
+			font-size:30px;
+
+			 }
 
 	
+	h2		{
+	  		 color: #1fb6e1;
+	   		 font-family: helvetica;
+	  		 text-transform:uppercase;
+
+	 		 font-size: 12px;
+	  		 line-height:20px;
+	  		 padding-top:1.5em;
 	
-	h1{
-    	color:black;
-		font-family: helvetica;
-		font-style:bold;
-		font-size:30px;
-
-
-
-	  }
-
-	
-	h2{
-	   color: #1fb6e1;
-	   font-family: helvetica;
-	   text-transform:uppercase;
-	   font-style:bold;
-
-	   font-size: 12px;
-	   line-height:20px;
-	   padding-top:1.5em;
-	
-	   }
+	  		 }
  
- 	h3{
  	
- 	  color:grey;
- 	  font-family: helvetica;
- 	  font-size: 12px;
- 	  line-height:18px;
- 	  font-style:bold;
+ 	
+ 	h3		{
+ 			 color:grey;
+ 	 		 font-family: helvetica;
+ 	 		 font-size: 12px;
+ 	 		 line-height:18px;
 
-
-
-
- 	  }
+			 }
+ 	
  	  
- 	ol{
- 	
- 	   font-family: helvetica;
- 	   font-size: 12px;
- 	   line-height:15px;
+ 	ol		{
+ 			 font-family: helvetica;
+ 	  		 font-size: 12px;
+ 	 		 line-height:15px;
 	
- 	  }
+ 	  		}
+ 	 
+ 	 
  	  
- 	p{
- 		font-family: helvetica;
- 		font-size: 12px;
- 		line-height:15px;
- 		width:300px;
+ 	p		{
+ 			font-family: helvetica;
+ 			font-size: 12px;
+ 			line-height:15px;
+ 			width:300px;
  
 
- 	}  
+ 			}  
  	  
  	
-
- ../images/bread-circle-color-small.png{float:left;}       
     
     img
-    {float:right;
-	 padding-right:18em;
+   			{float:right;
+	 		padding-right:18em;
   
-    }
+  			  }
     
-    article,{
+    
+    
+    article{
 	         margin:30px;    
 	         margin-top:5em;
 
-	    
-		}
+	    	}
  	  
  	  
  	  
@@ -140,21 +131,18 @@ body{padding-top:3em;
 			font-family: helvetica;
 			font-size:30px;
 			line-height:30px;
+			
+			  }
  	         
+ 	 
  	         
- 	         margin:10px
- 	         border:5px solid #1fb6e1;
- 	         }
- 	         
- 	  nav{text-decoration:none;
- 	  }
+ 	  nav  {text-decoration:none;
+ 	  		padding-top:1.5em;
+ 	  	   }
  	  
- 	  
-	 
-	 
-	 
-	 
-	  a:link  {color:black;
+ 	
+	  a:link  {
+	  color:black;
 	  		   text-decoration:none;
 	  		   font-family: helvetica;
  	   		   font-size: 14px;
