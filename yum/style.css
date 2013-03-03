@@ -54,10 +54,11 @@ table {
 /* END RESET */
 
 
+
+
 	h1{
-    	color:white;
+    	color:#df323e;
 		font-family: helvetica;
-		background-color:#df323e;
 		margin:1em;
 		padding: 2em, 1em, 1em, 1em;
 		font-size: 30px; 
@@ -103,7 +104,17 @@ table {
  	  
     
     img
-    {float:right;}
+    {float:left;
+	 padding-right:3em;
+	 padding-left:3em;    
+    }
+    
+    article{float:right;
+	        margin:20px;    
+	        height:100px;
+
+	    
+		}
  	  
  	  
  	  
