@@ -54,13 +54,14 @@ table {
 /* END RESET */
 
 		h1{font-family: helvetica;
-		   size:20px;
+		   size:22px;
 		   font-weight: bold;
 		
 		
 				}
 				
 		h2{font-family:helvetica;
+		   color:grey;
 		
 		  }		
 	
@@ -68,7 +69,9 @@ table {
 			float:left;
 			width:30em;
 			height:10px;
-			margin:1.5em;
+			margin:3em;
+
+		
 
 			}
 	
@@ -77,7 +80,15 @@ table {
 			width:30em;
 			height:10px;
 			margin:10px;
-			}
 			
 
+			}
 		
+		p{font-family:helvetica;
+		  line-height: 15px;
+		  font-size: 13px;
+		}
+		
+		
+		img{align:right;
+		}
