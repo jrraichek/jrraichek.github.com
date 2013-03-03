@@ -58,11 +58,19 @@ body{padding-top:3em;
 	padding-left:5em;
 }
 
+	
+	 	#arrow{
+	 			text-decoration:none;
+ 				padding-top:1em;
+ 			
+ 		}
+	
+	
 	h1{
     	color:black;
 		font-family: helvetica;
-		font-size: 24px; 
 		font-style:bold;
+		font-size:24px;
 
 
 
@@ -113,12 +121,13 @@ body{padding-top:3em;
 
  	}  
  	  
- 	  
+ 	
+
  
     
     img
     {float:right;
-	 padding-right:15em;
+	 padding-right:18em;
   
     }
     
@@ -131,3 +140,19 @@ body{padding-top:3em;
  	  
  	  
  	  
+ 	  header{font-family:helvetica;
+ 	         font-size:50px;
+ 	         font-style:bold;
+ 	         letter-spacing:1px;
+ 	         color:grey;	       
+ 	         text-transform:uppercase;
+ 	         
+ 	         
+ 	         margin:10px
+ 	         border:5px solid #1fb6e1;
+ 	         }
+ 	         
+ 	  nav{text-decoration:none;
+ 	  }
+ 	  
+ 	  img.bread-circle-color-small.png{position:absolute;}       
