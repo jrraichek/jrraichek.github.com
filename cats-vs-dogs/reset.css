@@ -75,34 +75,57 @@ html[xmlns] .clearfix { display: block; }
 
 
 
-		nav{font-family:helvetica;
+		nav{font-family:georgia;
 		
 		
 		
 		
 		    }
-		h1{size:24px;
-		
-		  }
+		    
+		    
+		    
+		h1	{font-family:georgia;
+			font-size:22px;
+			line-height:16px;
+			font-weight:bold;
+			
+			}
 
-		#p1{font-family:helvetica;
+
+
+		#p1{font-family:georgia;
+			font-size:14px;
+			line-height:18px;
+			
+		    
 		    float:left;
-		    width:10em;
+		    padding-left:5em;
+		    width:400px;
 		
 		
 		
 		        }
 		        
-		#p2{font-family:helvetica:
+		#p2{font-family:georgia;
+			font-size:14px;
+			line-height:18px;
+		    
 		    float:right;
-		    width:10em;
-			height:1px;
-			margin:1em;
+		    width:400px;
+		    padding-right:5em;
+		    
+
 		
 		    }
 		    
 		    
-		p{font-family:helvetica;
+		p	{font-family:georgia;
+			font-size:14px:
+			line-height:18px;
+		 	
+		 	 float:left;
+		 	 padding-left:5em;
+		 	 padding-top:3em;
 		
 		
 		        }
