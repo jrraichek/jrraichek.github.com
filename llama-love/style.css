@@ -54,30 +54,34 @@ table {
 /* END RESET */
 
 		h1{font-family: helvetica;
-		   size:30px;
+		   font-size:24px;
 		   font-weight: bold;
-		   line-height:20px;
+		   line-height:25px;
+
 		
 		
 				}
 
-img{float:left;
-	padding-right:1em;
-	padding-botton:3em;
+		img{float:left;
+			padding-right:1em;
+			padding-bottom:1em;
 
-}
+			}
 
 
 				
 		h2{font-family:helvetica;
 		   color:grey;
+		   font-size:14px;
+		   padding-top:.5em;
+		   padding-bottom:1em;
 		
 		  }		
 	
 		#p1{
 			float:left;
-			width:30em;
-			height:10px;
+			width:400px;
+			height:250px;
 			margin:3em;
 
 		
@@ -86,16 +90,17 @@ img{float:left;
 	
 		#p2{
 			float:right;
-			width:30em;
-			height:10px;
-			margin:10px;
+			width:400px;
+			height:250px;
+			margin:3em;
+			padding-right:15em;
 			
 
 			}
 		
 		p{font-family:helvetica;
 		  line-height: 15px;
-		  font-size: 13px;
+		  font-size: 12px;
 		}
 		
 		
