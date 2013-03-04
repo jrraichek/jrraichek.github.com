@@ -87,23 +87,28 @@ html[xmlns] .clearfix { display: block; }
 			}
 
 
-		li{ list-style:none;
+		li{ 
+			text-align:center;
+			list-style:none;
     		float:left;
     		
-    		position: center;
-    		font-size:24;
+    		
+    		font-size:24px;
     		
     		margin:25px;
     		
     		text-transform:uppercase;
     		
-    		padding-top:3em;
+    		padding-top:.1em;
+    		padding-left:1em;
     		font-weight:bold;
+    		
+    		
 
     		}
     		
     	
-    	nav{border-top: 2px solid black;
+    	nav{border-bottom: 1.5px solid black;
     		}
 
 
@@ -164,7 +169,7 @@ html[xmlns] .clearfix { display: block; }
 		padding-top: 10px;
 		}
 
-	footer{border-below: 2px solid black;
+	footer{border-top: 2px solid black;
 	}
 	
 	
