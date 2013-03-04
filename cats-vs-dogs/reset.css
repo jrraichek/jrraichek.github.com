@@ -86,21 +86,25 @@ html[xmlns] .clearfix { display: block; }
 			padding-bottom: 30px;
 			}
 
-	nav {
-			display: block;
-				}
 
 		li{ list-style:none;
     		float:left;
-    		margin:20px;
+    		
+    		position: center;
+    		font-size:24;
+    		
+    		margin:25px;
+    		
     		text-transform:uppercase;
-   			position:center; 
-    		padding-top:10em;
+    		
+    		padding-top:3em;
     		font-weight:bold;
-    		border-top: 1px solid black;
-    		border-bottom: 3px solid black;
 
-   			}
+    		}
+    		
+    	
+    	nav{border-top: 2px solid black;
+    		}
 
 
 		body {
@@ -117,8 +121,8 @@ html[xmlns] .clearfix { display: block; }
 				text-align: left;
 				padding-bottom: 19px;
 	
-				font-size:14px;
-				line-height:18px;
+				font-size:16px;
+				line-height:20px;
 
 			}
 	
@@ -138,8 +142,8 @@ html[xmlns] .clearfix { display: block; }
 				text-align: left;
 				padding-bottom: 20px;
 	
-				font-size:14px;
-				line-height:18px;
+				font-size:16px;
+				line-height:20px;
 			}
 	
 			
@@ -154,21 +158,29 @@ html[xmlns] .clearfix { display: block; }
 				
 	
 	h1{font-family: Georgia;
-	 	font-size: 22px;
+	 	font-size: 24px;
 		font-weight: bold;
 		padding-bottom: 10px;
 		padding-top: 10px;
 		}
 
+	footer{border-below: 2px solid black;
+	}
+	
 	
 	#c1{float:left;
 		width:400px;
+		text-align: left;
 		padding-bottom:1em;
+		font-size:12px;
+		
 		}
 	
 	#c2{float:right;
 		width:400px;
+		text-align: left;
 		padding-bottom:1em;
+		font-size:12px;
 		}
 	
 	
