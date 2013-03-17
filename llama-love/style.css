@@ -53,6 +53,8 @@ table {
 
 /* END RESET */
 
+
+
 		h1{font-family: helvetica;
 		   font-size:24px;
 		   font-weight: bold;
@@ -90,7 +92,7 @@ table {
 			}
 	
 		#p2{
-			float:right;
+			float:left;
 			width:400px;
 			height:250px;
 			margin:3em;
