@@ -78,7 +78,6 @@ html[xmlns] .clearfix { display: block; }
 
 		body {margin:0 auto;
   			  width:850px;
-  			  text-align: center;
 			}
 
 		
@@ -88,38 +87,30 @@ html[xmlns] .clearfix { display: block; }
 			margin-left: auto;
 			padding-top: 40px;
 			padding-bottom: 30px;
+			text-align: center;
+
 			}
 
+		li #photos{		list-style-type: none;}
 
-		li{ 
-			text-align:center;
-			list-style:none;
-    		float:left;
-    		
-    		
-    		font-size:24px;
-    		
-    		margin:25px;
-    		
-    		text-transform:uppercase;
-    		
-    		padding-top:.1em;
-    		padding-left:1em;
-    		font-weight:bold;
-    		
-    		
+		li{ float: left;
+			text-transform: uppercase;
+			font-size: 24px;
+			font-weight: bold;
+			text-align: left;
+			list-style-type: disc;
+			padding-left: 20px;
+
+			padding-top: 10px;
+			height: 30px;
+			width: 144px;
+
+			
+			border-top: 3pt solid black;
+			border-bottom: 3pt solid black;
 
     		}
 
-    	
-    	nav{border-bottom: 1.5px solid black;
-    	
-    		}
-
-	section{border-bottom: 3px solid black;
-			margin-bottom:20px;
-    	
-    		}
 
 
 		#p1{
@@ -173,8 +164,6 @@ html[xmlns] .clearfix { display: block; }
 		padding-top: 10px;
 		}
 
-	footer{border-top: 2px solid black;
-	}
 	
 	
 	#c1{float:left;
@@ -183,13 +172,22 @@ html[xmlns] .clearfix { display: block; }
 		padding-bottom:1em;
 		font-size:12px;
 		
+		border-top: 3px solid black;
+		padding-top:10px;
+		
 		}
+		
+		
 	
-	#c2{float:right;
+	#c2{float:left;
 		width:400px;
 		text-align: left;
 		padding-bottom:1em;
 		font-size:12px;
+		text-align:right;
+		
+		border-top: 3px solid black;
+		padding-top:10px;
 		}
 	
 	
