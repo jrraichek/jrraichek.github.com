@@ -50,3 +50,64 @@ table {
 	border-spacing: 0;
 }
 
+
+
+
+
+
+
+
+
+
+
+	body{font-family:helvitica;
+	
+		width:960px;
+		margin:0 auto;
+	
+	
+		}
+		
+		
+		
+	#site-header {
+		position:relative;
+		height:120px;
+		background-color:yellow;
+		
+		
+		}
+		
+		
+		
+	#main-menu li{
+		float:left;
+		display:block;
+		padding:10px;
+		margin:10px 0px 5px 15px;
+		background-color:light-blue;
+		}
+		
+		
+	h1{float:left;
+	   background-color:red;}
+	   
+	#page{float:left;
+	   	background-color:grey;
+	   	width:40%;
+	   	margin:20px 15px;
+		padding:10px;
+		}
+		
+		
+	#aside{float:left;
+			 padding-left: 10px;
+			 width: 20%
+			 background-color:teal;
+			 }
+	   	
+	   	
+	#site-footer{float:left;
+			background-color:green;
+			}
+	
