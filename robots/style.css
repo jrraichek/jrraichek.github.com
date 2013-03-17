@@ -60,54 +60,97 @@ table {
 
 
 
-	body{font-family:helvitica;
+	body {
+	width:960px;
+	margin:0 auto;
+}
+
+#site-header {
+	position:relative;
+	height:120px;
+	background-color:#d4e0a3;
 	
-		width:960px;
-		margin:0 auto;
+}
+
+#site-header h1 {
 	
 	
-		}
-		
-		
-		
-	#site-header {
-		position:relative;
-		height:120px;
-		background-color:yellow;
-		
-		
-		}
-		
-		
-		
-	#main-menu li{
-		float:left;
-		display:block;
-		padding:10px;
-		margin:10px 0px 5px 15px;
-		background-color:light-blue;
-		}
-		
-		
-	h1{float:left;
-	   background-color:red;}
-	   
-	#page{float:left;
-	   	background-color:grey;
-	   	width:40%;
-	   	margin:20px 15px;
-		padding:10px;
-		}
-		
-		
-	#aside{float:left;
-			 padding-left: 10px;
-			 width: 20%
-			 background-color:teal;
-			 }
-	   	
-	   	
-	#site-footer{float:left;
-			background-color:green;
-			}
+	position:absolute;
+	display:block;
+	width:250px;
+	height:100px;
+	background-color:white;
+	left:15px;
+}
+
+
+
+#top-nav { 
+	position:absolute;
+	right:15px;
+	width:150px;
+	height:20px;
+	background-color:white;
+}
+
 	
+
+#main-menu {
+	position:relative;
+	height:55px;
+	background-color:#4f3a11;
+}	
+#main-menu li{
+	float:left;
+	display:block;
+	padding:10px;
+	margin:10px 0px 5px 15px;
+	background-color:white;
+}	
+
+
+#page { 
+	font-family:helvetica;
+	font-size:11pt;
+	line-height:14pt;
+	color:black;
+	
+	
+	float:left; 
+	width:60%;
+	background-color:white;
+	margin:20px 15px;
+	padding:10px;
+	
+	
+	
+}	
+
+
+h1{font-family:helvetica;
+	font-size: 18pt;
+	color:#4f3a11;}
+
+
+
+#sidebar {
+	float:right;
+	width:30%;
+	margin-top:20px;
+	padding:10px;
+	background-color:#fffac2;
+}	
+
+#site-footer {
+	clear:both;
+	position:relative;
+	height:55px;
+	background-color:#4f3a11;
+}
+
+#footer-content h1 {
+	background-color:white;
+	float:left;
+	width:20%;
+	margin:15px 15px;
+}
