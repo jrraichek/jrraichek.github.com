@@ -84,7 +84,6 @@ table {
 }
 
 
-
 #top-nav { 
 	position:absolute;
 	right:15px;
@@ -95,29 +94,53 @@ table {
 
 	
 
+
 #main-menu {
 	position:relative;
-	height:55px;
+	height:35px;
 	background-color:#4f3a11;
+	
+	text-decoration:none;
+	font-family:helvetica;
+	font-size:10pt;
+	line-height:13pt;
+	color:white;
+	text-transform:uppercase; 
+	font-weight:bold;
+	
+	
 }	
+
+
 #main-menu li{
 	float:left;
-	display:block;
 	padding:10px;
 	margin:10px 0px 5px 15px;
-	background-color:white;
 }	
+
+
+
+#rightside{font-family:helvetica;
+	font-size:10pt;
+	line-height:13pt;
+	color:#4f3a11;
+	
+	
+	}
+	
+	
+
 
 
 #page { 
 	font-family:helvetica;
-	font-size:11pt;
-	line-height:14pt;
+	font-size:10pt;
+	line-height:13pt;
 	color:black;
 	
 	
 	float:left; 
-	width:60%;
+	width:50%;
 	background-color:white;
 	margin:20px 15px;
 	padding:10px;
@@ -127,9 +150,35 @@ table {
 }	
 
 
-h1{font-family:helvetica;
+#header1{font-family:helvetica;
 	font-size: 18pt;
-	color:#4f3a11;}
+	color:#4f3a11;
+	text-transform:uppercase; 
+	font-weight:bold;
+	}
+	
+	
+h2{font-family:helvetica;
+	font-size: 12pt;
+	color:#4f3a11;
+	text-transform:uppercase; 
+	font-weight:bold;
+	padding-top: 1em;
+	
+	}	
+	
+	
+	
+h1{font-family:helvetica;
+	font-size: 12pt;
+	color:#4f3a11;
+	text-transform:uppercase; 
+	font-weight:bold;
+	padding-top: 1em;
+	
+	}	
+	
+	
 
 
 
