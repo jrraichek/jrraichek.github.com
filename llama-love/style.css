@@ -53,6 +53,11 @@ table {
 
 /* END RESET */
 
+		body{margin-left: auto;
+			margin-right: auto;
+			width: 750px;
+			padding-top: 100px;
+			}
 
 
 		h1{font-family: helvetica;
@@ -82,10 +87,7 @@ table {
 	
 		#p1{
 			float:left;
-			position:center;
-			width:400px;
-			height:250px;
-			margin:3em;
+			width:350px;
 
 		
 
@@ -93,16 +95,14 @@ table {
 	
 		#p2{
 			float:left;
-			width:400px;
-			height:250px;
-			margin:3em;
-			padding-right:15em;
+			width:350px;
+			padding-left:20px;
 			
 
 			}
 		
 		p{font-family:helvetica;
-		  line-height: 15px;
+		  line-height: 14.5px;
 		  font-size: 12px;
 		}
 		
