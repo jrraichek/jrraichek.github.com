@@ -54,12 +54,13 @@ table {
 /* END RESET */
 
 
-	body	{padding-top:3em;
-			padding-left:5em;
-			}
+	body{margin:0 auto;
+  	 	 width:800px;
+  	 	 padding-top:70px;
+	 	}
 
-	
-
+			
+			
 
 	h1		{
     		color:black;
@@ -100,6 +101,10 @@ table {
  	  		}
  	 
  	 
+ 	  article{float:left;
+ 	  width:400px;
+ 	  }
+ 	  
  	  
  	p		{
  			font-family: helvetica;
@@ -113,24 +118,41 @@ table {
  	
     
     img
-   			{float:right;
-	 		padding-right:18em;
+   			{float:left;
+	 		 padding-right:30px;
   
   			  }
+
 
  	  
  	  
  	  header{ color:#1fb6e1;
 			font-family: helvetica;
-			font-size:30px;
-			line-height:30px;
+			font-size:50px;
+position:relative;
+top:60px;
+left:210px;
+
+
+				
 			
 			  }
+			  
+		#eggs{position:relative;
+		top:80px;
+		left:300px;
+		
+		}	  
  	         
- 	 
  	         
- 	  nav  {text-decoration:none;
- 	  		padding-top:1.5em;
+ 	         
+ 	  nav  {
+ 	  text-decoration:none;
+ 	  		text-align:center;
+position:relative;
+top:300px;
+right:115px;
+
  	  	   }
  	  
  	
