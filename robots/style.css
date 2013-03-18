@@ -67,7 +67,7 @@ table {
 
 #site-header {
 	position:relative;
-	height:120px;
+	height:140px;
 	background-color:#ecf2d3;
 	
 }
@@ -79,7 +79,6 @@ table {
 	display:block;
 	width:250px;
 	height:100px;
-	background-color:white;
 	left:15px;
 	color:#744918;
 }
@@ -91,8 +90,9 @@ table {
 	right:15px;
 	width:150px;
 	height:20px;
-	background-color:white;
 	color:#744918;
+	font-family:helvetica;
+	font-size:10;
 	
 	
 }
@@ -103,7 +103,7 @@ table {
 #main-menu {
 	position:relative;
 	height:55px;
-	background-color:#4f3a11;
+	background-color:#744918;
 	
 	text-decoration:none;
 	font-family:helvetica;
@@ -123,6 +123,8 @@ table {
 	margin:10px 0px 5px 15px;
 	color:#744918;
 }	
+
+#logo{padding-bottom:3em;}
 
 a:link{	text-decoration:none;}
 
@@ -244,3 +246,7 @@ h1{font-family:helvetica;
 	width:20%;
 	margin:15px 15px;
 }
+
+#follow{color:#cdc2ab}
+
+#contact{color:#cdc2ab}
