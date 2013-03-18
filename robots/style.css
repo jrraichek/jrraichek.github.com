@@ -194,7 +194,7 @@ h1{font-family:helvetica;
 	width:30%;
 	margin-top:20px;
 	padding:10px;
-	background-color:#fffac2;
+	background-color:white;
 }	
 
 #site-footer {
@@ -213,12 +213,27 @@ h1{font-family:helvetica;
 				font-size:10pt;
 				line-height:12pt;
 				color:white;
-				padding-left:15%;
+				padding-left:2em;
 	}
 
 #footer-follow{float:left;
 				width:30%;
+				padding-left:30em;
 				
+				}
+
+
+				
+#fb{float:left;
+
+				}
+				
+#rss{float:left;
+
+				}
+				
+#twitter{float:left;
+
 				}
 
 
