@@ -68,7 +68,7 @@ table {
 #site-header {
 	position:relative;
 	height:120px;
-	background-color:#d4e0a3;
+	background-color:#ecf2d3;
 	
 }
 
@@ -81,15 +81,20 @@ table {
 	height:100px;
 	background-color:white;
 	left:15px;
+	color:#744918;
 }
 
 
 #top-nav { 
+	text-decoration: none; 
 	position:absolute;
 	right:15px;
 	width:150px;
 	height:20px;
 	background-color:white;
+	color:#744918;
+	
+	
 }
 
 	
@@ -116,14 +121,16 @@ table {
 	float:left;
 	padding:10px;
 	margin:10px 0px 5px 15px;
+	color:#744918;
 }	
 
+a:link{	text-decoration:none;}
 
 
 #rightside{font-family:helvetica;
 	font-size:10pt;
 	line-height:13pt;
-	color:#4f3a11;
+	color:#744918;
 	
 	
 	}
@@ -152,7 +159,7 @@ table {
 
 #header1{font-family:helvetica;
 	font-size: 18pt;
-	color:#4f3a11;
+	color:#744918;
 	text-transform:uppercase; 
 	font-weight:bold;
 	}
@@ -160,7 +167,7 @@ table {
 	
 h2{font-family:helvetica;
 	font-size: 12pt;
-	color:#4f3a11;
+	color:#744918;
 	text-transform:uppercase; 
 	font-weight:bold;
 	padding-top: 1em;
@@ -171,7 +178,7 @@ h2{font-family:helvetica;
 	
 h1{font-family:helvetica;
 	font-size: 12pt;
-	color:#4f3a11;
+	color:#744918;
 	text-transform:uppercase; 
 	font-weight:bold;
 	padding-top: 1em;
@@ -191,11 +198,30 @@ h1{font-family:helvetica;
 }	
 
 #site-footer {
-	clear:both;
+				clear:both;
+
 	position:relative;
-	height:55px;
-	background-color:#4f3a11;
+	height:175px;
+	background-color:#875c33;
 }
+
+
+
+#footer-contact{float:left;
+				width:15%;
+				font-family:helvetica;
+				font-size:10pt;
+				line-height:12pt;
+				color:white;
+				padding-left:15%;
+	}
+
+#footer-follow{float:left;
+				width:30%;
+				
+				}
+
+
 
 #footer-content h1 {
 	background-color:white;
