@@ -60,6 +60,8 @@ table {
 
 
 
+
+
 	body {
 	width:960px;
 	margin:0 auto;
@@ -204,8 +206,7 @@ h1{font-family:helvetica;
 }	
 
 #site-footer {
-				clear:both;
-
+	clear:both;
 	position:relative;
 	height:175px;
 	background-color:#875c33;
@@ -220,7 +221,9 @@ h1{font-family:helvetica;
 				line-height:12pt;
 				color:white;
 				padding-left:2em;
-	}
+				
+				}
+				
 
 #footer-follow{float:left;
 				width:30%;
@@ -229,7 +232,16 @@ h1{font-family:helvetica;
 				}
 
 
+
+#footer-wrapper {
+				clear: both;
+				background-color: #875c33;
+				height: 150px;
+				position:relative;
+				}
 				
+
+
 #fb{float:left;
 
 				}
