@@ -85,7 +85,7 @@ table {
 
 
 #top-nav { 
-	text-decoration: none; 
+	list-style-type: none;
 	position:absolute;
 	right:15px;
 	width:150px;
@@ -101,17 +101,16 @@ table {
 
 
 #main-menu {
-	position:relative;
-	height:55px;
-	background-color:#744918;
-	
-	text-decoration:none;
-	font-family:helvetica;
-	font-size:10pt;
-	line-height:13pt;
-	color:white;
-	text-transform:uppercase; 
-	font-weight:bold;
+
+position: relative;
+height: 25px;
+width: 960px;
+margin: 0 auto;
+background-color: #875c33;
+padding-bottom: 10px;
+margin-bottom: 30px;
+
+
 	
 	
 }	
@@ -119,9 +118,14 @@ table {
 
 #main-menu li{
 	float:left;
-	padding:10px;
-	margin:10px 0px 5px 15px;
-	color:#744918;
+display: block;
+padding: 10px 10px 10px 20px;
+margin-left: 15px;
+color: white;
+font-family: helvetica;
+text-transform: uppercase;
+position: relative;
+font-size: 14px;
 }	
 
 #logo{padding-bottom:3em;}
