@@ -61,18 +61,22 @@ table {
 
 
 
-
 	body {
 	width:960px;
 	margin:0 auto;
+	
 }
 
 #site-header {
 	position:relative;
 	height:140px;
 	background-color:#ecf2d3;
+
+
 	
 }
+
+
 
 #site-header h1 {
 	
@@ -81,8 +85,7 @@ table {
 	display:block;
 	width:250px;
 	height:100px;
-	left:15px;
-	color:#744918;
+		color:#744918;
 }
 
 
@@ -94,7 +97,7 @@ table {
 	height:20px;
 	color:#744918;
 	font-family:helvetica;
-	font-size:10;
+	font-size:8;
 	
 	
 }
@@ -133,6 +136,7 @@ font-size: 14px;
 #logo{padding-bottom:3em;}
 
 a:link{	text-decoration:none;}
+a:link {color:white;} 
 
 
 #rightside{font-family:helvetica;
