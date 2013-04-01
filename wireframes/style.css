@@ -50,22 +50,34 @@ table {
 /* Add Styles Here */
 
 
+			body {margin:0 auto;
+  			  width:850px;
+			}
+
+
 		h1 { font-family:Helvetica; 
 			 font-size:30px;
+			 padding-top:1.5em;
+			 padding-bottom:.4em;
+
 			 
 				 
 			 }
 
 		body{font-family:Helvetica; 
+			 font-size:11px;
+			 line-height:14px;
+
 		
 		
-		
-		
+	
 			}
 			
+		img{float:left;}
 			
 		#GR{float:left;
-			width:40%;
+			width:45%;
+			
 		
 		
 			}
@@ -73,7 +85,8 @@ table {
 			
 			
 		#CP{float:left;
-			width:40%;
+			width:45%;
+			padding-left:3em;
 		
 		
 			}
