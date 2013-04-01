@@ -57,7 +57,7 @@ table {
 
 		h1 { font-family:Helvetica; 
 			 font-size:30px;
-			 padding-top:1.5em;
+			 padding-top:2em;
 			 padding-bottom:.4em;
 
 			 
@@ -73,7 +73,12 @@ table {
 	
 			}
 			
-		img{float:left;}
+		img{float:left;
+			padding-bottom:1em;
+		
+			}
+			
+		#pic2{padding-bottom:3em;}
 			
 		#GR{float:left;
 			width:45%;
