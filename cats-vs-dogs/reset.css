@@ -107,6 +107,9 @@ html[xmlns] .clearfix { display: block; }
 		
 	 
 	 #logo {
+	 		font-family:leaguegothicregular; 
+	 		font-size: 80pt;
+	 		
 			margin-right: auto;
 			margin-left: auto;
 			padding-top: 40px;
