@@ -77,8 +77,7 @@ html[xmlns] .clearfix { display: block; }
 
 
 		
-		
-		
+		  
 		
 		
 		
@@ -93,10 +92,7 @@ html[xmlns] .clearfix { display: block; }
     font-style: normal;
 
 }
-		
-		
-		
-		
+
 		
 		
 		
@@ -105,10 +101,11 @@ html[xmlns] .clearfix { display: block; }
 			}
 
 		
-	 
+	 	 		 .word2 { font-size:50px; }
+	#logo .word1 { font-size:50px; }
 	 #logo {
 	 		font-family:leaguegothicregular; 
-	 		font-size: 80pt;
+	 		font-size: 90pt;
 	 		
 			margin-right: auto;
 			margin-left: auto;
