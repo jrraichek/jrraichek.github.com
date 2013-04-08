@@ -107,17 +107,18 @@ padding-bottom: 20px;
 
 span {
 font-family: 'LeagueGothicRegular';
-font-size: 130px;
+font-size: 120px;
 padding-top: 30px;
 
 			}
 			
 #vs {
 color: #ccc;
-font-size: 56px;
+font-size: 65px;
 font-style: italic;
-border-top: 5px solid #ccc;
-border-bottom: 5px solid #ccc;
+font-weight: bold;
+border-top: 5px double #ccc;
+border-bottom: 5px double #ccc;
 font-family: georgia;
 padding: 0px;
 margin-left: 20px;
