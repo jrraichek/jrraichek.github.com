@@ -124,59 +124,55 @@ table {
 		
 		
 		#project3{float:left;
-				  padding-top:5em;
+				  padding-top:5em;}
+		#project3:hover {opacity: 0.3;}			  
+				  
 
-		}
-		#textproject3{position:relative;
-
-				  padding-top:5em;
-				  visibility:hidden;}
-	
-		#textproject3:hover .text {visibility:visible;}
 		
 		
 		
 		
 		#project4{float:left;
-				  padding-right:2em;
-		}
+				  padding-right:2em;}
 		#project4:hover {opacity: 0.3;}
 		
 		
+		
+		
 		#project5{float:left;
-				  padding-right:2em;
-		}
+				  padding-right:2em;}
+		#project5:hover {opacity: 0.3;}	
 		
 		
 		
-		#project6{float:left;
-	
-
-		}
+		
+		
+		#project6{float:left;}
+		#project6:hover {opacity: 0.3;}	
 		
 		
 		
 		
 		#project7{float:left;
 				  padding-right:2em;
-				  padding-bottom:4em;
-
-		}
+				  padding-bottom:4em;}
+		#project7:hover {opacity: 0.3;}	
+		
 		
 		
 		
 		#project8{float:left;
 				  padding-right:2em;
-				  padding-bottom:4em;
-
-		}
+				  padding-bottom:4em;}
+		#project8:hover {opacity: 0.3;}	
+		
+		
 		
 		
 		
 		#project9{float:left;
-				  padding-bottom:4em;
-
-		}
+				  padding-bottom:4em;}
+		#project9:hover {opacity: 0.3;}	
 		
 		
 		
