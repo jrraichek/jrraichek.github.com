@@ -83,7 +83,14 @@ table {
 		
 		
 		
-		h1{color:red}
+		h1{color:teal;
+		   font-family:helvetica;
+		   font-size:18px;
+
+		}
+		p{font-family:georgia;
+		  font-size:14px;
+		}
 		
 
 		
