@@ -89,49 +89,58 @@ table {
 		
 			}
 		
-		
+		#about{padding-top:6em;}
 		
 		
 		
 		h1{color:teal;
 		   font-family:helvetica;
-		   font-size:18px;
+		   font-size:12px;
 		   text-transform:uppercase;
+		   
+		   
 		    
 
 		}
 		p{font-family:georgia;
-		  font-size:14px;
+		  font-size:10px;
 		}
 		
 
 		
 		#project1{float:left;
 				  padding-right:2em;
-				  padding-top:5em;
-
-		}
+				  padding-top:5em;}
+		#project1:hover {opacity: 0.3;}		  
+		
 		
 		
 		
 		#project2{float:left;
 				  padding-right:2em;
-				  padding-top:5em;
-		}
-		
+				  padding-top:5em;}
+		#project2:hover {opacity: 0.3;}		  
+
 		
 		
 		#project3{float:left;
 				  padding-top:5em;
 
 		}
+		#textproject3{position:relative;
+
+				  padding-top:5em;
+				  visibility:hidden;}
+	
+		#textproject3:hover .text {visibility:visible;}
+		
 		
 		
 		
 		#project4{float:left;
 				  padding-right:2em;
 		}
-		
+		#project4:hover {opacity: 0.3;}
 		
 		
 		#project5{float:left;
