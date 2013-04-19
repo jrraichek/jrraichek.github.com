@@ -108,7 +108,7 @@ table {
 		
 		#project1{float:left;
 				  padding-right:2em;
-				  padding-top:10em;
+				  padding-top:5em;
 
 		}
 		
@@ -116,13 +116,13 @@ table {
 		
 		#project2{float:left;
 				  padding-right:2em;
-				  padding-top:10em;
+				  padding-top:5em;
 		}
 		
 		
 		
 		#project3{float:left;
-		padding-top:10em;
+				  padding-top:5em;
 
 		}
 		
@@ -141,6 +141,7 @@ table {
 		
 		
 		#project6{float:left;
+	
 
 		}
 		
@@ -149,18 +150,22 @@ table {
 		
 		#project7{float:left;
 				  padding-right:2em;
+				  padding-bottom:4em;
+
 		}
 		
 		
 		
 		#project8{float:left;
 				  padding-right:2em;
+				  padding-bottom:4em;
+
 		}
 		
 		
 		
 		#project9{float:left;
-				  padding-bottom:3em;
+				  padding-bottom:4em;
 
 		}
 		
