@@ -59,23 +59,33 @@ table {
 			}
 		
 		
-		
-		#w{float:left
+			#w{float:left
+
 		
 		
 			
 			}
 			
 		#a/c{float:left
+	
 		
 		
 			
 			}
+	#nav{	position:fixed;
+			top:3em;
+			right:25em;}
+	
+	
 		
 		
 		
 		#logo{float:left;
 			padding-right:10em;
+			
+			position:fixed;
+			top:3em;
+			left:15.2em;
 		
 			}
 		
@@ -86,6 +96,8 @@ table {
 		h1{color:teal;
 		   font-family:helvetica;
 		   font-size:18px;
+		   text-transform:uppercase;
+		    
 
 		}
 		p{font-family:georgia;
@@ -95,32 +107,35 @@ table {
 
 		
 		#project1{float:left;
-				  padding-right:1.5em;
+				  padding-right:2em;
+				  padding-top:10em;
 
 		}
 		
 		
 		
 		#project2{float:left;
-				  padding-right:1.5em;
+				  padding-right:2em;
+				  padding-top:10em;
 		}
 		
 		
 		
 		#project3{float:left;
+		padding-top:10em;
 
 		}
 		
 		
 		
 		#project4{float:left;
-				  padding-right:1.5em;
+				  padding-right:2em;
 		}
 		
 		
 		
 		#project5{float:left;
-				  padding-right:1.5em;
+				  padding-right:2em;
 		}
 		
 		
@@ -133,18 +148,19 @@ table {
 		
 		
 		#project7{float:left;
-				  padding-right:1.5em;
+				  padding-right:2em;
 		}
 		
 		
 		
 		#project8{float:left;
-				  padding-right:1.5em;
+				  padding-right:2em;
 		}
 		
 		
 		
 		#project9{float:left;
+				  padding-bottom:3em;
 
 		}
 		
