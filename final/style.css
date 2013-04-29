@@ -65,11 +65,15 @@ table {
 		
 		nav a:link {text-decoration:none;
 				color:black;}
-		nav a:visited {text-decoration:none;}
+		nav a:visited {text-decoration:none;
+						color:black;}
 		nav a:hover {opacity: 0.3;}
-		nav a:active {text-decoration:underline;}
+		nav a:active {opacity: 0.3;}
 		
-		#w{padding-right:6.2em;
+
+		
+		#w{padding-right:10em;
+
 			}
 			
 		#a/c{
@@ -77,7 +81,9 @@ table {
 	   
 	   
 	   nav li{
-	   	
+	        text-decoration:uppercase;
+		    font-family:helvetica;
+		    font-size:12px;
 			float:left;
 			position:fixed;
 			top:2em;
@@ -98,6 +104,16 @@ table {
 			
 		
 			}
+			
+
+		#resume a:link {text-decoration:none;
+				color:black;}
+		#resume a:visited {text-decoration:none;
+						color:black;}
+		#resume a:hover {opacity: 0.3;}
+		#resume a:active {opacity: 0.3;}
+
+
 		
 		#about{padding-top:6em;
 }
@@ -150,22 +166,25 @@ table {
 				  padding-right:2em;
 				  padding-top:5em;
 				  padding-bottom:1em;
+				  width:200px;
+						height:200px;
 		
 		}
 		
-		.thumbnails div{
+		.thumbnails a{
 		z-index:10;
-		display:none;
 						width:200px;
 						height:200px;
 						position:absolute;
-						text-align:center;
+						left:-9999px;
 						background-color:red;
+						opacity:1;
 
 		}
 		
-		.thumbnails div:hover{display:block;
-		opacity:.5;
+		.thumbnails a:hover{
+		opacity:1;
+		left:0px;
 		background-color:red;
 		}
 		
