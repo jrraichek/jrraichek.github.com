@@ -98,7 +98,7 @@ table {
 			
 			position:fixed;
 			top:3em;
-			left:15.2em;
+			left:9.4em;
 			
 		
 			}
@@ -113,7 +113,7 @@ table {
 		#siteheader{position:fixed;
 			top:0em;
 			left:0em;
-			height: 155px;
+			height: 160px;
 			width:100%;
 			background-color:white;}
 		
@@ -141,7 +141,8 @@ table {
 		
 		#project1{float:left;
 				  padding-right:2em;
-				  padding-top:5em;}
+				  padding-top:5em;
+				  padding-bottom:1em;}
 		#project1:hover {opacity: 0.3;
 		}	
 		#project1hov{float:left;}
@@ -152,14 +153,16 @@ table {
 		
 		#project2{float:left;
 				  padding-right:2em;
-				  padding-top:5em;}
+				  padding-top:5em;
+				  padding-bottom:1em;}
 		#project2:hover {opacity: 0.3;}		  
 
 		
 		
 		#project3{float:left;
 				  padding-top:5em;
-				  padding-left:.2em;}
+				  padding-left:.2em;
+				  padding-bottom:1em;}
 		#project3:hover {opacity: 0.3;}			  
 				  
 
@@ -168,21 +171,24 @@ table {
 		
 		
 		#project4{float:left;
-				  padding-right:2em;}
+				  padding-right:2em;
+				  padding-bottom:1em;}
 		#project4:hover {opacity: 0.3;}
 		
 		
 		
 		
 		#project5{float:left;
-				  padding-right:2em;}
+				  padding-right:2em;
+				  padding-bottom:1em;}
 		#project5:hover {opacity: 0.3;}	
 		
 		
 		
 		
 		
-		#project6{float:left;}
+		#project6{float:left;
+				  padding-bottom:1em;}
 		#project6:hover {opacity: 0.3;}	
 		
 		
@@ -190,7 +196,8 @@ table {
 		
 		#project7{float:left;
 				  padding-right:2em;
-				  padding-bottom:4em;}
+				  padding-bottom:4em;
+				  padding-bottom:1em;}
 		#project7:hover {opacity: 0.3;}	
 		
 		
@@ -198,7 +205,8 @@ table {
 		
 		#project8{float:left;
 				  padding-right:2em;
-				  padding-bottom:4em;}
+				  padding-bottom:4em;
+				  padding-bottom:1em;}
 		#project8:hover {opacity: 0.3;}	
 		
 		
@@ -206,7 +214,8 @@ table {
 		
 		
 		#project9{float:left;
-				  padding-bottom:4em;}
+				  padding-bottom:4em;
+				  padding-bottom:1em;}
 		#project9:hover {opacity: 0.3;}	
 		
 		
@@ -220,9 +229,40 @@ table {
 		}
 		
 		
+		#projectb{padding-top:4.5em;
+				  padding-bottom:4em;
+		}
+		
+		#projectc{padding-top:4.5em;
+				  padding-bottom:4em;
+		}
 		
 		
+		#projectd{padding-top:4.5em;
+				  padding-bottom:4em;
+		}
 		
+		#projecte{padding-top:4.5em;
+				  padding-bottom:4em;
+		}
+		
+		
+		#projectf{padding-top:4.5em;
+				  padding-bottom:4em;
+		}
+		
+		#projectg{padding-top:4.5em;
+				  padding-bottom:4em;
+		}
+		
+		
+		#projecth{padding-top:4.5em;
+				  padding-bottom:4em;
+		}
+		
+		#projecti{padding-top:4.5em;
+				  padding-bottom:4em;
+		}
 		
 		
 		#about{width:40%}
