@@ -52,6 +52,8 @@ table {
 
 
 
+
+
 		body{margin-left: auto;
 			margin-right: auto;
 			width: 750px;
@@ -59,14 +61,21 @@ table {
 			}
 		
 		
-			#w{float:left
-
+		
+		
+		a:link {text-decoration:none;
+				color:black;}
+		a:visited {text-decoration:none;}
+		a:hover {opacity: 0.3;}
+		a:active {text-decoration:underline;}
+		
+		#w{float:left;
 		
 		
 			
 			}
 			
-		#a/c{float:left
+		#a/c{float:left;
 	
 
 		
@@ -85,7 +94,7 @@ table {
 		
 		#logo{
 			float:left;
-			padding-right:10em;
+			padding-right:15em;
 			
 			position:fixed;
 			top:3em;
@@ -133,7 +142,10 @@ table {
 		#project1{float:left;
 				  padding-right:2em;
 				  padding-top:5em;}
-		#project1:hover {opacity: 0.3;}		  
+		#project1:hover {opacity: 0.3;
+		}	
+		#project1hov{float:left;}
+ 
 		
 		
 		

@@ -1,0 +1,273 @@
+
+
+/* Meyer Reset */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+	body {
+	width:960px;
+	margin:0 auto;
+	
+}
+
+#site-header {
+	position:relative;
+	height:140px;
+	background-color:#ecf2d3;
+
+
+	
+}
+
+
+
+#site-header h1 {
+	
+	
+	position:absolute;
+	display:block;
+	width:250px;
+	height:100px;
+	left:15px;
+	color:#744918;
+}
+
+
+#top-nav { 
+	list-style-type: none;
+	position:absolute;
+	right:15px;
+	width:150px;
+	height:20px;
+	color:#744918;
+	font-family:helvetica;
+	font-size:10;
+	
+	
+}
+
+	
+
+
+#main-menu {
+
+position: relative;
+height: 25px;
+width: 960px;
+margin: 0 auto;
+background-color: #875c33;
+padding-bottom: 10px;
+margin-bottom: 30px;
+
+
+	
+	
+}	
+
+
+#main-menu li{
+	float:left;
+display: block;
+padding: 10px 10px 10px 20px;
+margin-left: 15px;
+color: white;
+font-family: helvetica;
+text-transform: uppercase;
+position: relative;
+font-size: 14px;
+}	
+
+#logo{padding-bottom:3em;}
+
+a:link{	text-decoration:none;}
+a:link {color:white;} 
+
+
+#rightside{font-family:helvetica;
+	font-size:10pt;
+	line-height:13pt;
+	color:#744918;
+	
+	
+	}
+	
+	
+
+
+
+#page { 
+	font-family:helvetica;
+	font-size:10pt;
+	line-height:13pt;
+	color:black;
+	
+	
+	float:left; 
+	width:50%;
+	background-color:white;
+	margin:20px 15px;
+	padding:10px;
+	
+	
+	
+}	
+
+
+#header1{font-family:helvetica;
+	font-size: 18pt;
+	color:#744918;
+	text-transform:uppercase; 
+	font-weight:bold;
+	}
+	
+	
+h2{font-family:helvetica;
+	font-size: 12pt;
+	color:#744918;
+	text-transform:uppercase; 
+	font-weight:bold;
+	padding-top: 1em;
+	
+	}	
+	
+	
+	
+h1{font-family:helvetica;
+	font-size: 12pt;
+	color:#744918;
+	text-transform:uppercase; 
+	font-weight:bold;
+	padding-top: 1em;
+	
+	}	
+	
+	
+
+
+
+#sidebar {
+	float:right;
+	width:30%;
+	margin-top:20px;
+	padding:10px;
+	background-color:white;
+}	
+
+#site-footer {
+	clear:both;
+	position:relative;
+	height:175px;
+	background-color:#875c33;
+}
+
+
+
+#footer-contact{float:left;
+				width:15%;
+				font-family:helvetica;
+				font-size:10pt;
+				line-height:12pt;
+				color:white;
+				padding-left:2em;
+				
+				}
+				
+
+#footer-follow{float:left;
+				width:30%;
+				padding-left:30em;
+				
+				}
+
+
+
+#footer-wrapper {
+				clear: both;
+				background-color: #875c33;
+				height: 150px;
+				position:relative;
+				}
+				
+
+
+#fb{float:left;
+
+				}
+				
+#rss{float:left;
+
+				}
+				
+#twitter{float:left;
+
+				}
+
+
+
+#footer-content h1 {
+	background-color:white;
+	float:left;
+	width:20%;
+	margin:15px 15px;
+}
+
+#follow{color:#cdc2ab}
+
+#contact{color:#cdc2ab}
