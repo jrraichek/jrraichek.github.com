@@ -63,29 +63,25 @@ table {
 		
 		
 		
-		a:link {text-decoration:none;
+		nav a:link {text-decoration:none;
 				color:black;}
-		a:visited {text-decoration:none;}
-		a:hover {opacity: 0.3;}
-		a:active {text-decoration:underline;}
+		nav a:visited {text-decoration:none;}
+		nav a:hover {opacity: 0.3;}
+		nav a:active {text-decoration:underline;}
 		
-		#w{float:left;
-		
-		
-			
+		#w{padding-right:6.2em;
 			}
 			
-		#a/c{float:left;
-	
-
-		
-			
+		#a/c{
 			}
-	   #nav{
-
-	   		position:fixed;
-			top:3em;
-			right:25em;
+	   
+	   
+	   nav li{
+	   	
+			float:left;
+			position:fixed;
+			top:2em;
+			right:20.1em;
 			}
 	
 	
@@ -94,11 +90,11 @@ table {
 		
 		#logo{
 			float:left;
-			padding-right:15em;
+			padding-right:5em;
 			
 			position:fixed;
-			top:3em;
-			left:9.4em;
+			top:2em;
+			left:15.1em;
 			
 		
 			}
@@ -110,7 +106,9 @@ table {
 		
 		
 		
-		#siteheader{position:fixed;
+		#siteheader{
+			z-index:100;
+			position:fixed;
 			top:0em;
 			left:0em;
 			height: 160px;
@@ -135,94 +133,47 @@ table {
 		   font-family:helvetica;
 		   font-size:16px;
 		   text-transform:uppercase;
+		   padding-bottom:.5em;
 		}
 		
 		p{font-family:georgia;
-		  font-size:10px;
+		  font-size:14px;
+		  padding-bottom:1em;
 		}
 		
 
-		
-		#project1{float:left;
-				  padding-right:2em;
-				  padding-top:5em;
-				  padding-bottom:1em;}
-		#project1:hover {opacity: 0.3;
-		}	
-		#project1hov{float:left;}
- 
-		
-		
-		
-		
-		#project2{float:left;
-				  padding-right:2em;
-				  padding-top:5em;
-				  padding-bottom:1em;}
-		#project2:hover {opacity: 0.3;}		  
 
-		
-		
-		#project3{float:left;
-				  padding-top:5em;
-				  padding-left:.2em;
-				  padding-bottom:1em;}
-		#project3:hover {opacity: 0.3;}			  
-				  
 
-		
-		
-		
-		
-		#project4{float:left;
+		.thumbnails section{
+		position:relative;
+		float:left;
 				  padding-right:2em;
-				  padding-bottom:1em;}
-		#project4:hover {opacity: 0.3;}
+				  padding-top:5em;
+				  padding-bottom:1em;
 		
+		}
 		
+		.thumbnails div{
+		z-index:10;
+		display:none;
+						width:200px;
+						height:200px;
+						position:absolute;
+						text-align:center;
+						background-color:red;
+
+		}
 		
+		.thumbnails div:hover{display:block;
+		opacity:.5;
+		background-color:red;
+		}
 		
-		#project5{float:left;
-				  padding-right:2em;
-				  padding-bottom:1em;}
-		#project5:hover {opacity: 0.3;}	
+		.thumbnails img {
+						z-index:5;
+		}
 		
-		
-		
-		
-		
-		#project6{float:left;
-				  padding-bottom:1em;}
-		#project6:hover {opacity: 0.3;}	
-		
-		
-		
-		
-		#project7{float:left;
-				  padding-right:2em;
-				  padding-bottom:4em;
-				  padding-bottom:1em;}
-		#project7:hover {opacity: 0.3;}	
-		
-		
-		
-		
-		#project8{float:left;
-				  padding-right:2em;
-				  padding-bottom:4em;
-				  padding-bottom:1em;}
-		#project8:hover {opacity: 0.3;}	
-		
-		
-		
-		
-		
-		#project9{float:left;
-				  padding-bottom:4em;
-				  padding-bottom:1em;}
-		#project9:hover {opacity: 0.3;}	
-		
-		
+
 		
 		
 		
