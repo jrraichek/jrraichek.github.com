@@ -124,15 +124,19 @@ table {
 		
 		
 		
-		h1{color:teal;
+		h1{color:black;
 		   font-family:helvetica;
 		   font-size:12px;
 		   text-transform:uppercase;
-		   
-		   
-		    
-
 		}
+		
+		
+		h2{color:black;
+		   font-family:helvetica;
+		   font-size:16px;
+		   text-transform:uppercase;
+		}
+		
 		p{font-family:georgia;
 		  font-size:10px;
 		}
