@@ -68,28 +68,50 @@ table {
 			
 		#a/c{float:left
 	
-		
+
 		
 			
 			}
-	   #nav{position:fixed;
+	   #nav{
+
+	   		position:fixed;
 			top:3em;
-			right:25em;}
+			right:25em;
+			}
 	
 	
 		
 		
 		
-		#logo{float:left;
+		#logo{
+			float:left;
 			padding-right:10em;
 			
 			position:fixed;
 			top:3em;
 			left:15.2em;
+			
 		
 			}
 		
-		#about{padding-top:6em;}
+		#about{padding-top:6em;
+}
+
+		
+		
+		
+		
+		#siteheader{position:fixed;
+			top:0em;
+			left:0em;
+			height: 155px;
+			width:100%;
+			background-color:white;}
+		
+		
+		
+		
+		
 		
 		
 		
