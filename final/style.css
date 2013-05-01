@@ -163,36 +163,25 @@ table {
 		.thumbnails section{
 		position:relative;
 		float:left;
-				  padding-right:2em;
+				  padding-right:3.1em;
 				  padding-top:5em;
-				  padding-bottom:1em;
 				  width:200px;
 						height:200px;
 		
 		}
-		
-		.thumbnails a{
-		z-index:10;
-						width:200px;
-						height:200px;
-						position:absolute;
-						left:-9999px;
-						background-color:red;
-						opacity:1;
 
-		}
 		
-		.thumbnails a:hover{
-		opacity:1;
-		left:0px;
-		background-color:red;
-		}
-		
-		.thumbnails img {
-						z-index:5;
-		}
-		
+.thumbnails h1 {
+        z-index:10;
+        width:200px;
+        height:200px;
+        position:absolute;
+        opacity:0;
+        }
 
+.thumbnails h1:hover {
+        opacity:.8;
+        background-color:white;
 		
 		
 		
