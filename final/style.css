@@ -87,7 +87,7 @@ table {
 			float:left;
 			position:fixed;
 			top:2em;
-			right:20.1em;
+			right:24.5em;
 			}
 	
 	
@@ -160,10 +160,9 @@ table {
 		
 		#photo{padding-bottom:2.2em;}
 		
-		
-		h3{padding-top:4em;}
-		
-		#about{width:40%}
+				
+		#about{width:40%;
+		padding-top:1em;}
 
 
 		.thumbnails section{
