@@ -138,7 +138,7 @@ table {
 		
 		
 		
-		h1{color:black;
+		h1{
 		   font-family:helvetica;
 		   font-size:12px;
 		   text-transform:uppercase;
@@ -159,26 +159,37 @@ table {
 		}
 		
 		#photo{padding-bottom:2.2em;}
-
+		
+		
+		h3{padding-top:4em;}
+		
+		#about{width:40%}
 
 
 		.thumbnails section{
 		position:relative;
 		float:left;
-				  padding-right:3.1em;
-				  padding-top:5em;
-				  width:200px;
-						height:200px;
+		padding-right:3em;
+		padding-bottom:3em;
+		width:200px;
+		height:200px;
 		
 		}
+		#project1{padding-top:4em}
+		#project2{padding-top:4em}
+		#project3{padding-top:4em}
 
 		
-.thumbnails h1 {
+		
+		.thumbnails h1 {
         z-index:10;
         width:200px;
         height:200px;
         position:absolute;
         opacity:0;
+        color:teal;
+        text-align:center;
+        
         }
 
 .thumbnails h1:hover {
@@ -187,10 +198,7 @@ table {
 		
 		
 		
-		
-		
-		#about{width:40%}
-		
+				
 		
 		
 		
