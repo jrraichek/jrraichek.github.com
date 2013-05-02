@@ -81,9 +81,9 @@ table {
 	   
 	   
 	   nav li{
-	        text-decoration:uppercase;
+	        text-transform:uppercase;
 		    font-family: 'Oswald', sans-serif;
-		    font-size:12px;
+		    font-size:16px;
 			float:left;
 			position:fixed;
 			top:2em;
@@ -140,8 +140,9 @@ table {
 		
 		h1{
 		   font-family: 'Oswald', sans-serif;
-		   font-size:12px;
+		   font-size:16px;
 		   text-transform:uppercase;
+		   line-height:210px;
 		}
 		
 		
@@ -153,7 +154,7 @@ table {
 		   padding-top:4em;
 		}
 		
-		p{font-family: 'Oswald', sans-serif;
+		p{font-family:georgia;
 		  font-size:14px;
 		  padding-bottom:1em;
 		}
