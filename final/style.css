@@ -109,9 +109,9 @@ table {
 		#resume a:link {text-decoration:none;
 				color:black;}
 		#resume a:visited {text-decoration:none;
-						color:black;}
-		#resume a:hover {opacity: 0.3;}
-		#resume a:active {opacity: 0.3;}
+						color:#1d95a0;}
+		#resume a:hover {color:grey;}
+		#resume a:active {color:grey;}
 
 
 		
@@ -151,8 +151,16 @@ table {
 		   font-size:16px;
 		   text-transform:uppercase;
 		   padding-bottom:.5em;
-		   padding-top:4em;
+		   padding-top:4.5em;
 		}
+		
+		#me{padding-top:4em;}
+		
+		#resume{
+		   font-family: 'Oswald', sans-serif;
+		   font-size:16px;
+		   text-transform:uppercase;}		
+		
 		
 		p{font-family:georgia;
 		  font-size:14px;
@@ -187,7 +195,7 @@ table {
         height:200px;
         position:absolute;
         opacity:0;
-        color:#1d95a0;
+        color:black;
         text-align:center;
         
         }
