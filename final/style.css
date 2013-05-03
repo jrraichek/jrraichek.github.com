@@ -66,13 +66,13 @@ table {
 		nav a:link {text-decoration:none;
 				color:black;}
 		nav a:visited {text-decoration:none;
-						color:black;}
-		nav a:hover {opacity: 0.3;}
-		nav a:active {opacity: 0.3;}
+						color:#1d95a0;}
+		nav a:hover {color:grey;}
+		nav a:active {color:grey;}
 		
 
 		
-		#w{padding-right:10em;
+		#w{padding-right:9em;
 
 			}
 			
@@ -86,8 +86,8 @@ table {
 		    font-size:16px;
 			float:left;
 			position:fixed;
-			top:2em;
-			right:24.5em;
+			top:2.2em;
+			right:18em;
 			}
 	
 	
@@ -99,8 +99,8 @@ table {
 			padding-right:5em;
 			
 			position:fixed;
-			top:2em;
-			left:15.1em;
+			top:1em;
+			left:14.6em;
 			
 		
 			}
@@ -187,7 +187,7 @@ table {
         height:200px;
         position:absolute;
         opacity:0;
-        color:teal;
+        color:#1d95a0;
         text-align:center;
         
         }
