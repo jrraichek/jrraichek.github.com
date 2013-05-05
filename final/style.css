@@ -75,10 +75,7 @@ table {
 		#w{padding-right:9em;
 
 			}
-			
-		#a/c{
-			}
-	   
+
 	   
 	   nav li{
 	        text-transform:uppercase;
@@ -165,16 +162,14 @@ table {
 		p{font-family:georgia;
 		  font-size:14px;
 		  padding-bottom:1em;
-		  padding-top:5.em;
+		  padding-top:.5em;
 		  line-height:17px;
-		  width:65%
-		}
+		  width:65%}
 		
 		#photo{padding-bottom:2.2em;}
 		
 				
-		#about{;
-		padding-top:1em;}
+		#about{padding-top:1em;}
 		#email{padding-top:.3em;}
 
 
@@ -206,7 +201,7 @@ table {
 
 .thumbnails h1:hover {
         opacity:.8;
-        background-color:white;
+        background-color:white;}
 		
 		
 		
