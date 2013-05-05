@@ -100,7 +100,7 @@ table {
 			
 			position:fixed;
 			top:1em;
-			left:14.6em;
+			left:15.1em;
 			
 		
 			}
@@ -165,13 +165,17 @@ table {
 		p{font-family:georgia;
 		  font-size:14px;
 		  padding-bottom:1em;
+		  padding-top:5.em;
+		  line-height:17px;
+		  width:65%
 		}
 		
 		#photo{padding-bottom:2.2em;}
 		
 				
-		#about{width:40%;
+		#about{;
 		padding-top:1em;}
+		#email{padding-top:.3em;}
 
 
 		.thumbnails section{
