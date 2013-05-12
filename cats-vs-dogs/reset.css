@@ -127,6 +127,14 @@ position: relative;
 top: -25px;
 }			
 
+		
+		
+		
+		
+		
+
+  img { max-width:100%; }		
+		
 		#photos{list-style: none;
 				}
 
@@ -166,7 +174,7 @@ top: -25px;
 				float: left;
 				padding-bottom: 20px;
 				padding-top: 20px;
-				width: 400px;
+				width: 100%;
 			}
 
 	
@@ -189,10 +197,12 @@ top: -25px;
 				text-align: left;
 				padding-bottom: 20px;
 				padding-top: 20px;
-				width: 400px;
+				width: 100%;
 			}
 				
-				
+
+
+	
 	
 	h1{
 	 	font-size: 24px;
@@ -226,7 +236,6 @@ top: -25px;
 		border-top: 3px solid black;
 		padding-top:10px;
 		}
-	
 	
 	
 	
